@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Home page",
+  "deploy": "Deploy",
   "about": {
-    "title": "About",
+    "title": "About Project",
     "type": "page"
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://t.me/sing_web_group",
     "newWindow": true
   }
 }
