@@ -1,6 +1,6 @@
 {
   "index": "Home page",
-  "x-ui": "x-ui",
+  "x-ui": "x-ui Panel",
   "about": {
     "title": "About Project",
     "type": "page"
