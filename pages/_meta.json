@@ -1,6 +1,6 @@
 {
   "index": "Home page",
-  "deploy": "Deploy",
+  "x-ui": "x-ui",
   "about": {
     "title": "About Project",
     "type": "page"
