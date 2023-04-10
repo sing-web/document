@@ -17,7 +17,7 @@ const config: DocsThemeConfig = {
   },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – Sing-web Document'
+      titleTemplate: '%s – sing-web Document'
     }
   }
 }
